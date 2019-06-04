@@ -1,0 +1,16 @@
+{
+  "name": "walk-a-bot",
+  "version": "1.0.0",
+  "description": "Slack bot that advises on walking based on weather, for Moog Coop",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenny Kim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "openweather-apis": "^4.0.0",
+    "slack": "^11.0.2"
+  }
+}
